@@ -1,0 +1,12 @@
+# CI and vendors
+.husky
+
+# package managers
+node_modules
+package-lock.json
+
+# debug
+npm-debug.log*
+
+# app
+public
